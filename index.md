@@ -1,4 +1,19 @@
+# Welcome to My Personal Website
+
+Welcome... poke around a bit, open some shelves, see what you find.
+
+
+## Blog
+
+
+
+## About
+
 ---
-title: 2025
+
+## Contact
+
+
 ---
-My current status is **in progress**
+
+[![Alt text](image-url)](destination-url)
